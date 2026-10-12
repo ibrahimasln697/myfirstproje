@@ -1,0 +1,2 @@
+# myfirstproje
+first phyton code
